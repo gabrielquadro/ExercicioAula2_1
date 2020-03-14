@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ExercíciosAula2_1</string>
+    <string name="app_name">ExercicesClass2_1</string>
+    <string name="ola">Ola Mundo</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice 2_1</string>
+    <string name="texto1">Initial value</string>
+    <string name="texto2">Amount in R $. Ex: R $ 1700.00</string>
+    <string name="texto3">Monthly Application</string>
+    <string name="texto4">Ex: R$100.00</string>
+    <string name="texto5">Application Time</string>
+    <string name="texto6">In months</string>
+    <string name="texto7">Monthly Application</string>
+    <string name="texto9">Continue</string>
+</resources>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Brasil</string>
-    <string name="ola">Oi mundo</string>
+    <string name="app_name">Exercicio_Aula_2</string>
+    <string name="texto1">Valor Inicial</string>
+    <string name="texto2">Valor em R$. Ex: R$1700.00</string>
+    <string name="texto3">Aplicação Mensal</string>
+    <string name="texto4">Ex: R$100.00</string>
+    <string name="texto5">Tempo da Aplicação</string>
+    <string name="texto6">Em meses</string>
+    <string name="texto7">Aplicação Mensal</string>
+    <string name="texto9">Continuar</string>
 </resources>
